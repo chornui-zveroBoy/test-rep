@@ -1,4 +1,4 @@
 <?php 
-echo "<h2> News header </h2> ";
+echo "<h2>Header by news </h2> ";
 echo "some string"; 
 ?>
